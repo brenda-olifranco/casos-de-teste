@@ -17,7 +17,7 @@ Os cenários de teste estão organizados no arquivo **casos-de-teste.md**. Eles 
 
 ## Como Rodar os Testes
 
-Para visualizar ou executar esses casos de teste, basta verificar o arquivo **casos-de-teste.md** e seguir as instruções de cada cenário.
+Para visualizar ou executar esses casos de teste, basta verificar o arquivo **caso-teste.md** e seguir as instruções de cada cenário.
 
 ---
 
